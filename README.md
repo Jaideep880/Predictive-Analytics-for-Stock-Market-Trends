@@ -6,7 +6,7 @@ Here are visual outputs generated from our stock market prediction models:
 
 ![Final Look of Prediction LSTM](https://github.com/Jaideep880/Predictive-Analytics-for-Stock-Market-Trends/blob/main/Final_Look_Of_Prediction_LSTM.jpg?raw=true)  
 ![Full Graph](https://github.com/Jaideep880/Predictive-Analytics-for-Stock-Market-Trends/blob/main/FullGraph.png?raw=true)  
-![Future Prediction LSTM](https://github.com/Jaideep880/Predictive-Analytics-for-Stock-Market-Trends/blob/main/FuturePrediction_LSTM.jpg?raw=true)  
+![Future Prediction LSTM](https://github.com/Jaideep880/Predictive-Analytics-for-Stock-Market-Trends/blob/main/FuturePrediction_LSTM.png?raw=true)  
 ![NLP Chart](https://github.com/Jaideep880/Predictive-Analytics-for-Stock-Market-Trends/blob/main/NLPchart.png?raw=true)  
 ![Scaled Graph](https://github.com/Jaideep880/Predictive-Analytics-for-Stock-Market-Trends/blob/main/ScaledGraph.png?raw=true)  
 ![Training LSTM](https://github.com/Jaideep880/Predictive-Analytics-for-Stock-Market-Trends/blob/main/TrainingLSTM.jpg?raw=true)
